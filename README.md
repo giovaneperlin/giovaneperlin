@@ -2,15 +2,9 @@
 
 ## ⚡ GitHub Stats
 
-<div>
-  <img align="left"
-     width="40%" height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=giovaneperlin&show_icons=true&theme=nightowl"
-    alt="giovaneperlin"
-  />
-	
+<div>	
   <img align="center" 
-    width="33%" height="180em" 
+    width="33%" height="360em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneperlin&layout=compact&theme=nightowl"
     alt="giovaneperlin"
   />
